@@ -2,7 +2,7 @@
 repository = "https://github.com/itsbexy/gaugeomatic.git"
 commit = "860e4477e220cd169d127a10f1d2c82049892243"
 owners = [
-    "ItsBexy，Dragonw2333",
+    "ItsBexy",
 ]
 changelog = """
 ## WIDGETS
