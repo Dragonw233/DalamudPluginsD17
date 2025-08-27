@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Dragonw233/GaugeOMatic.git"
-commit = "860e4477e220cd169d127a10f1d2c82049892243"
+commit = "10335848d3883c5f0a79b7f2505df2a7e678ce00"
 owners = [
     "ItsBexy，Dragonw2333",
 ]
