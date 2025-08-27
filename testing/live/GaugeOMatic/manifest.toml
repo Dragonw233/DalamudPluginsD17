@@ -1,8 +1,8 @@
 [plugin]
-repository = "https://github.com/itsbexy/gaugeomatic.git"
+repository = "https://github.com/Dragonw233/GaugeOMatic.git"
 commit = "860e4477e220cd169d127a10f1d2c82049892243"
 owners = [
-    "ItsBexy",
+    "ItsBexy，Dragonw2333",
 ]
 changelog = """
 ## WIDGETS
